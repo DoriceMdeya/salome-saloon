@@ -9,7 +9,7 @@ const Footer = () => {
           {/* Brand */}
           <div>
             <h2 className="text-2xl font-bold text-pink-500 mb-4">
-              SALOME<span className="text-white">Salon</span>
+              SALOME<span className="text-white">SALOON</span>
             </h2>
             <p className="text-gray-400 mb-4">
               Premier women's hair salon specializing in exquisite braiding techniques and hair care services.
@@ -72,7 +72,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>&copy; {new Date().getFullYear()} SALOME Salon. All rights reserved.</p>
+          <p>&copy; {new Date().getFullYear()} SALOME SALOON. All rights reserved.</p>
           <p className="mt-2 text-sm">Professional braiding services for women</p>
         </div>
       </div>
