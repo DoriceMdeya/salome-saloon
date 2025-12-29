@@ -48,7 +48,7 @@ const Hero = () => {
               <span className="text-pink-300">Confident You</span>
             </h1>
             <p className="text-xl mb-8 opacity-90">
-              Experience the art of premium braiding at SALOME Salon. 
+              Experience the art of premium braiding at SALOME SALOON. 
               Where elegance meets expertise in every strand.
             </p>
             
